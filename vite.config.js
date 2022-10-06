@@ -10,6 +10,8 @@ export default defineConfig({
     port: 8800
   },
 
+  base: '/test-drag-n-drop',
+
   plugins: [
     Vue(),
 
