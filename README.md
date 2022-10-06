@@ -1,0 +1,1 @@
+# vite & vue 3 & tailwindcss & pinia & auto page & layout
